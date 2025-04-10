@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SheSecure</string>
+    <string name="police_number">9604813749</string>
+    <string name="women_helpline_number">8600526757</string>
+    <string-array name="friend_contact">
+        <item>8530786861</item>
+        <item>8600526757</item>
+        <item>9673363534</item>
+    </string-array>
+
+
+</resources>
